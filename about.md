@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+Visit my Tech Blog - Get Into Devies, here. https://getintodevices.blogspot.com/
 
 B.Tech (CSE) Student at National Institute of Technology, Uttarakhand,
 Part time Tech-Blogger,
